@@ -52,7 +52,7 @@ Crickbuzz.com is leading static website for all cricket related information.
 
 ## Challenges
 
-1. As every journey has some challenges. 
+1.As every journey has some challenges. 
 
 2.It was a little difficult to do this website alone in seven days.but i was able to complete my website in seven days.
 
