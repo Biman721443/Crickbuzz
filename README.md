@@ -13,8 +13,8 @@ Crickbuzz.com is leading static website for all cricket related information.
 
 ## Credits
 
- - Images : [Geekbyuing.com](https://www.cricbuzz.com/)
- - Content : [Geekbyuing.com](https://www.cricbuzz.com/)
+ - Images : [cricbuzz.com](https://www.cricbuzz.com/)
+ - Content : [cricbuzz.com](https://www.cricbuzz.com/)
  - Icons : [Font Awesome](https://fontawesome.com/)
  - References : [MDN Docs] | [W3School](https://www.w3schools.com/)
 
