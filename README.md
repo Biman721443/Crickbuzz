@@ -5,6 +5,7 @@ my target was to complete all main functionality of static website have, such as
 I have completed this project in 7 days.
 
 - [Click here](https://profound-kleicha-a650c2.netlify.app/) to see preview of our project.
+-  [Click here](https://hashnode.com/preview/624707f0c794c505604c331a) to see my blog.
 
 Crickbuzz.com is leading static website for all cricket related information.
 
